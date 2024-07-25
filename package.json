@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "nodemon",
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/keypress": "^2.0.30",
+    "@types/node": "^20.14.11",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "ts-pattern": "^5.2.0"
+  }
+}
